@@ -4,8 +4,11 @@ In this program, we can enter a number of sentences without giving punctuation m
 # Sample input-output
 Enter text:
 i am fine how are you
+
 i am fine
+
 how are you
+
 
 Enter text:
 what is apple what is orange
