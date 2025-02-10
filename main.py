@@ -47,3 +47,4 @@ for npstr in extract_string(chunked):
     print (npstr)
 
 print("Hello world")
+print("2+#")
