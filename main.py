@@ -45,3 +45,5 @@ chunked = chunkParser.parse(B);
 """Extracting chunk named "CLAUSE" and print it."""
 for npstr in extract_string(chunked):
     print (npstr)
+
+print("Hello world")
